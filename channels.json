@@ -1,0 +1,13 @@
+{
+  "updated_at": "2025-01-01",
+  "channels": [
+    {
+      "name": "MegaPix",
+      "url": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/712aab4b4a827f3e9b126578835d72ee/megapix.m3u8"
+    },
+    {
+      "name": "Canal Teste",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
+  ]
+}
