@@ -6,8 +6,6 @@ https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
 
 
-#EXTINF:-1,AE
-https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
 
 #EXTINF:-1,CARTOON NETWORK
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd7cc3674a0ade5b6/cartoonnetwork.m3u8
@@ -97,8 +95,6 @@ https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/9f42f77235b283ba1
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
 
 
-#EXTINF:-1,AE
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
 
 #EXTINF:-1,CARTOON NETWORK
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd7cc3674a0ade5b6/cartoonnetwork.m3u8
@@ -186,3 +182,6 @@ https://embedcanais.store/qQa5ZD5sRIkhbsgnteC8wLtO9BSqD2/index.m3u8
 
 #EXTINF:-1,CINEMAX
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
+
+#EXTINF:-1,AE
+https://embedcanais.store/K8nDSqXxaeekMM9VThX0k9tgLb7tKR69y/index.m3u8
