@@ -32,13 +32,13 @@
 
 
 
-#EXTINF:-1,CINEMAX
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
+
 #EXTINF:-1,AE
-#EXTINF:-1,AXN
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
 #EXTINF:-1,BAND AO VIVO
 #EXTINF:-1,CARTOON NETWORK
 #EXTINF:-1,CAZE TV
+#EXTINF:-1,CINEMAX
 #EXTINF:-1,DISNEY PLUS
 #EXTINF:-1,HISTORY
 #EXTINF:-1,MEGAPIX
@@ -80,6 +80,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/c0ef4cf7240e48fc0
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/c43196f31d71f8ae462633705cd263df/telecineaction.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fef9960b70102207c/hbo.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f664b844edc201d0d9f546a01df08865/nickelodeon.m3u8
