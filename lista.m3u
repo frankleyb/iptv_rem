@@ -15,8 +15,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/c0ef4cf7240e48fc0
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/bd1dd1a55fd9da724d1fd23aa050aa65/telecinetouch.m3u8
 #EXTINF:-1,TLC
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
-#EXTINF:-1,TNT
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/b79d468908ae483663f84c53456f3220/tnt.m3u8
 #EXTINF:-1,TV CULTURA
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/824e02985b7dedb68b1930164bdca718/cultura.m3u8
 #EXTINF:-1,WARNER TV
@@ -53,3 +51,5 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f664b844edc201d0d
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
 #EXTINF:-1,SPORTV
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
+#EXTINF:-1,TNT
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/b79d468908ae483663f84c53456f3220/tnt.m3u8
