@@ -1,7 +1,8 @@
 
 
-#EXTINF:-1,MEGAPIX
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
+
+#EXTINF:-1,DISNEY PLUS
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AE_HD
 #EXTINF:-1,AXN
@@ -14,9 +15,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc
 #EXTINF:-1,CAZE TV_HD
 #EXTINF:-1,CINEMAX
 #EXTINF:-1,CINEMAX_HD
-#EXTINF:-1,DISNEY PLUS
-#EXTINF:-1,DISNEY PLUS_HD
-#EXTINF:-1,HBO
 #EXTINF:-1,HBO 2
 #EXTINF:-1,HBO 2_HD
 #EXTINF:-1,HBO FAMILY
@@ -32,6 +30,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc
 #EXTINF:-1,HISTORY 2
 #EXTINF:-1,HISTORY 2_HD
 #EXTINF:-1,HISTORY_HD
+#EXTINF:-1,MEGAPIX
 #EXTINF:-1,NICKELODEON
 #EXTINF:-1,NICKELODEON_HD
 #EXTINF:-1,PARAMOUNT
@@ -68,6 +67,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc
 <<<<<<< HEAD
 =======
 >>>>>>> 6c57b674b1accee9acc431e71901a28519c910ec
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
