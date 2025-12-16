@@ -8,8 +8,9 @@
 
 
 
-#EXTINF:-1,HBO PLUS
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/7313dffad78dd0de93a1b40bc4ae3c59/hboplus.m3u8
+
+#EXTINF:-1,HBO
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fef9960b70102207c/hbo.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AXN
 #EXTINF:-1,BAND AO VIVO_HD
@@ -17,14 +18,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/7313dffad78dd0de9
 #EXTINF:-1,CAZE TV_HD
 #EXTINF:-1,CINEMAX
 #EXTINF:-1,DISNEY PLUS
-#EXTINF:-1,HBO 2
-#EXTINF:-1,HBO FAMILY
-#EXTINF:-1,HBO SIGNATURE
-#EXTINF:-1,HBO SIGNATURE_HD
-#EXTINF:-1,HBO XTREME
-#EXTINF:-1,HBO XTREME_HD
-#EXTINF:-1,HBO_HD
-#EXTINF:-1,HISTORY
 #EXTINF:-1,HISTORY 2
 #EXTINF:-1,HISTORY 2_HD
 #EXTINF:-1,HISTORY_HD
