@@ -20,8 +20,6 @@ https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e7197a48367256612
 
 
 
-#EXTINF:-1,HISTORY
-https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
 
 #EXTINF:-1,SPORTV 3
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/c03be95e479546aa178750371f4b3252/sportv3.m3u8
@@ -82,8 +80,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a48367256612
 
 
 
-#EXTINF:-1,HISTORY
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
 
 #EXTINF:-1,SPORTV 3
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/c03be95e479546aa178750371f4b3252/sportv3.m3u8
@@ -164,5 +160,6 @@ https://embedcanais.store/Be8Q6vNuQ2cztvhU5tGtQAuzSsJim/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,NICKELODEON
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f664b844edc201d0d9f546a01df08865/nickelodeon.m3u8
 
-#EXTINF:-1,HISTORY 2
+
+#EXTINF:-1,HISTORY
 https://embedcanais.store/zrm9h820hstry2DfQnPOMbdYvpiYKne/tracks-v1a1/mono.ts.m3u8
