@@ -24,8 +24,6 @@ https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e7197a48367256612
 
 
 
-#EXTINF:-1,TNT
-https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b79d468908ae483663f84c53456f3220/tnt.m3u8
 
 #EXTINF:-1,TLC
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
@@ -78,8 +76,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a48367256612
 
 
 
-#EXTINF:-1,TNT
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/b79d468908ae483663f84c53456f3220/tnt.m3u8
 
 #EXTINF:-1,TLC
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
@@ -156,3 +152,6 @@ https://embedcanais.store/zrm9h820hstry2DfQnPOMbdYvpiYKne/tracks-v1a1/mono.ts.m3
 
 #EXTINF:-1,SPORTV
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
+
+#EXTINF:-1,TNT
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/b79d468908ae483663f84c53456f3220/tnt.m3u8
