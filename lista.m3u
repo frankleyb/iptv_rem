@@ -48,8 +48,9 @@
 
 
 
-#EXTINF:-1,SPORTV 2
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/8e5609e505a1c3b110a156ff532e5115/sportv2.m3u8
+
+#EXTINF:-1,SPORTV
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AXN
 #EXTINF:-1,BAND AO VIVO
@@ -63,8 +64,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/8e5609e505a1c3b11
 #EXTINF:-1,MEGAPIX
 #EXTINF:-1,NICKELODEON
 #EXTINF:-1,SPACE
-#EXTINF:-1,SPORTV 3
-#EXTINF:-1,TELECINE ACTION
 #EXTINF:-1,TELECINE CULT
 #EXTINF:-1,TELECINE PIPOCA
 #EXTINF:-1,TELECINE PREMIUM
