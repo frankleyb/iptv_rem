@@ -46,8 +46,9 @@
 
 
 
-#EXTINF:-1,HISTORY
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
+
+#EXTINF:-1,SPORTV 3
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/c03be95e479546aa178750371f4b3252/sportv3.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AXN
 #EXTINF:-1,BAND AO VIVO
@@ -57,6 +58,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd
 #EXTINF:-1,DISNEY PLUS
 #EXTINF:-1,HBO
 #EXTINF:-1,HBO XTREME
+#EXTINF:-1,HISTORY
 #EXTINF:-1,MEGAPIX
 #EXTINF:-1,NICKELODEON
 #EXTINF:-1,SPACE
@@ -73,6 +75,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/071e7a49023080fcfe9017d5efebe025/hbo2.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/195a1991a66a8819000d307140575ed4/hboxtreme.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/195a1991a66a8819000d307140575ed4/hboxtreme.m3u8
