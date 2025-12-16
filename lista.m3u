@@ -45,8 +45,9 @@
 
 
 
-#EXTINF:-1,HISTORY 2
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/d8c4610a2834a1d31ca8c1713f4f4300/history2.m3u8
+
+#EXTINF:-1,HISTORY
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AXN
 #EXTINF:-1,BAND AO VIVO
