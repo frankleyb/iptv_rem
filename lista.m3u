@@ -3,6 +3,7 @@
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
 #EXTINF:-1,Canal 02
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+<<<<<<< HEAD
 
 #EXTINF:-1,DISNEY PLUS
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
@@ -95,4 +96,7 @@ https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/824e02985b7dedb68
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/533ae8d74479cdb14c47eb4d41986fcd/sbt.m3u8
 
 #EXTINF:-1,BAND AO VIVO
+=======
+#EXTINF:-1,Band Ao Vivo
+>>>>>>> 80b207f199671c8e25193a26e68f133320195991
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/9f42f77235b283ba107e8da4d66b886e/band.m3u8
