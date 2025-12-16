@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.guiademarcas.globo/capa_megapix_GTCwel7.png",MegaPix
-https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
+https://embedcanais.store/NsWVYCoIpt9mgpxZYE51mxR8KCDXs/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Canal 02
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
