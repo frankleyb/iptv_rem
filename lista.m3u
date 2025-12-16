@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,BAND AO VIVO
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/9f42f77235b283ba107e8da4d66b886e/band.m3u8
 #EXTINF:-1,MEGAPIX
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
 #EXTINF:-1,DISNEY PLUS
@@ -49,3 +47,5 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/2b72b11767d94343b
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/824e02985b7dedb68b1930164bdca718/cultura.m3u8
 #EXTINF:-1,SBT AO VIVO
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/533ae8d74479cdb14c47eb4d41986fcd/sbt.m3u8
+#EXTINF:-1,BAND AO VIVO
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/9f42f77235b283ba107e8da4d66b886e/band.m3u8
