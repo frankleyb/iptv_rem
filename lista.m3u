@@ -9,8 +9,9 @@
 
 
 
-#EXTINF:-1,HBO
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fef9960b70102207c/hbo.m3u8
+
+#EXTINF:-1,SPACE
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/b657f65c38578406d917fc64774257b3/space.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AXN
 #EXTINF:-1,BAND AO VIVO_HD
@@ -18,6 +19,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fe
 #EXTINF:-1,CAZE TV_HD
 #EXTINF:-1,CINEMAX
 #EXTINF:-1,DISNEY PLUS
+#EXTINF:-1,HBO
 #EXTINF:-1,HISTORY 2
 #EXTINF:-1,HISTORY 2_HD
 #EXTINF:-1,HISTORY_HD
@@ -28,9 +30,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fe
 #EXTINF:-1,PARAMOUNT_HD
 #EXTINF:-1,SBT AO VIVO
 #EXTINF:-1,SBT AO VIVO_HD
-#EXTINF:-1,SPACE
-#EXTINF:-1,SPACE_HD
-#EXTINF:-1,SPORTV
 #EXTINF:-1,SPORTV 2
 #EXTINF:-1,SPORTV 2_HD
 #EXTINF:-1,SPORTV 3
@@ -127,4 +126,5 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/6f726faf9e9fad1b4
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fef9960b70102207c/hbo.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/feed64503fc9d091dfb69ae8ee7e022c/hbofamily.m3u8
