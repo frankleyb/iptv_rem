@@ -14,8 +14,6 @@ https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e7197a48367256612
 
 
 
-#EXTINF:-1,SPACE
-https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b657f65c38578406d917fc64774257b3/space.m3u8
 
 
 #EXTINF:-1,PARAMOUNT
@@ -86,8 +84,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a48367256612
 
 
 
-#EXTINF:-1,SPACE
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/b657f65c38578406d917fc64774257b3/space.m3u8
 
 
 #EXTINF:-1,PARAMOUNT
@@ -168,3 +164,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fe
 
 #EXTINF:-1,HBO SIGNATURE
 https://embedcanais.store/qQa5ZD5sRIkhbsgnteC8wLtO9BSqD2/index.m3u8
+
+#EXTINF:-1,SPACE
+https://embedcanais.store/tDP9bdE2zBRgspcFT6Ce5fuMje/index.m3u8
