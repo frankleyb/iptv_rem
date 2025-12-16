@@ -103,3 +103,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6
 https://embedcanais.store/qQa5ZD5sRIkhbsgnteC8wLtO9BSqD2/index.m3u8
 #EXTINF:-1 tvg-id="warnertv" tvg-name="warnertv",WARNER TV
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/2b72b11767d94343bf24c01d9acb1a33/warnerchannel.m3u8
+
+#EXTINF:-1,DISNEY PLUS
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
