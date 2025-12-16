@@ -35,8 +35,6 @@
 
 
 
-#EXTINF:-1,CARTOON NETWORK
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd7cc3674a0ade5b6/cartoonnetwork.m3u8
 
 #EXTINF:-1,AXN
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/6f726faf9e9fad1b447898c67847f352/axn.m3u8
@@ -115,3 +113,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc660
 
 #EXTINF:-1,AE
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd7cc3674a0ade5b6/cartoonnetwork.m3u8
