@@ -51,8 +51,9 @@
 
 
 
-#EXTINF:-1,TLC
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
+
+#EXTINF:-1,TELECINE PREMIUM
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/c0ef4cf7240e48fc013fdc4984150628/telecinepremium.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AXN
 #EXTINF:-1,BAND AO VIVO
@@ -69,13 +70,13 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/13105b36c1e2f6785
 #EXTINF:-1,SPORTV
 #EXTINF:-1,TELECINE CULT
 #EXTINF:-1,TELECINE PIPOCA
-#EXTINF:-1,TELECINE PREMIUM
-#EXTINF:-1,TELECINE TOUCH
+#EXTINF:-1,TLC
 #EXTINF:-1,TNT
 #EXTM3U
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/071e7a49023080fcfe9017d5efebe025/hbo2.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
