@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,AE
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
 #EXTINF:-1,AXN
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/6f726faf9e9fad1b447898c67847f352/axn.m3u8
 #EXTINF:-1,BAND AO VIVO
@@ -49,3 +47,5 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
 #EXTINF:-1,CINEMAX
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
+#EXTINF:-1,AE
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
