@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,MEGAPIX
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
 
 #EXTINF:-1,DISNEY PLUS
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
@@ -80,3 +78,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/533ae8d74479cdb14
 
 #EXTINF:-1,BAND AO VIVO
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/9f42f77235b283ba107e8da4d66b886e/band.m3u8
+
+#EXTINF:-1,MEGAPIX
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
