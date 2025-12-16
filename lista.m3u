@@ -37,14 +37,16 @@
 
 
 
-#EXTINF:-1,HBO 2
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/071e7a49023080fcfe9017d5efebe025/hbo2.m3u8
+
+#EXTINF:-1,HBO PLUS
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/7313dffad78dd0de93a1b40bc4ae3c59/hboplus.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AXN
 #EXTINF:-1,BAND AO VIVO
 #EXTINF:-1,CARTOON NETWORK
 #EXTINF:-1,CINEMAX
 #EXTINF:-1,DISNEY PLUS
+#EXTINF:-1,HBO 2
 #EXTINF:-1,HBO FAMILY
 #EXTINF:-1,HISTORY
 #EXTINF:-1,MEGAPIX
@@ -63,6 +65,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/071e7a49023080fcf
 #EXTINF:-1,TV CULTURA
 #EXTINF:-1,WARNER TV
 #EXTM3U
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/071e7a49023080fcfe9017d5efebe025/hbo2.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
