@@ -43,19 +43,19 @@
 
 
 
-#EXTINF:-1,CAZE TV
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
+
+#EXTINF:-1,NICKELODEON
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f664b844edc201d0d9f546a01df08865/nickelodeon.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AXN
 #EXTINF:-1,BAND AO VIVO
 #EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,CAZE TV
 #EXTINF:-1,CINEMAX
 #EXTINF:-1,DISNEY PLUS
 #EXTINF:-1,HBO
 #EXTINF:-1,HBO XTREME
 #EXTINF:-1,MEGAPIX
-#EXTINF:-1,NICKELODEON
-#EXTINF:-1,PARAMOUNT
 #EXTINF:-1,SPACE
 #EXTINF:-1,TELECINE ACTION
 #EXTINF:-1,TELECINE CULT
@@ -75,6 +75,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/195a1991a66a88190
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/195a1991a66a8819000d307140575ed4/hboxtreme.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd7cc3674a0ade5b6/cartoonnetwork.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd7cc3674a0ade5b6/cartoonnetwork.m3u8
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/2b72b11767d94343bf24c01d9acb1a33/warnerchannel.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/533ae8d74479cdb14c47eb4d41986fcd/sbt.m3u8
