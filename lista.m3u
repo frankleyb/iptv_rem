@@ -50,8 +50,6 @@
 
 
 
-#EXTINF:-1,SPORTV
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
 
 #EXTINF:-1,TNT
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/b79d468908ae483663f84c53456f3220/tnt.m3u8
@@ -129,8 +127,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f664b844edc201d0d
 #EXTINF:-1,HISTORY
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
 
-#EXTINF:-1,SPORTV 3
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/c03be95e479546aa178750371f4b3252/sportv3.m3u8
 
-#EXTINF:-1,SPORTV 2
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/8e5609e505a1c3b110a156ff532e5115/sportv2.m3u8
+
+#EXTINF:-1,SPORTV
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
