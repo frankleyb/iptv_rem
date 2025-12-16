@@ -4,12 +4,12 @@
 
 
 
-#EXTINF:-1,CARTOON NETWORK
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd7cc3674a0ade5b6/cartoonnetwork.m3u8
+
+#EXTINF:-1,AXN
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/6f726faf9e9fad1b447898c67847f352/axn.m3u8
 #EXTINF:-1,AE
-#EXTINF:-1,AXN_HD
-#EXTINF:-1,BAND AO VIVO
 #EXTINF:-1,BAND AO VIVO_HD
+#EXTINF:-1,CARTOON NETWORK
 #EXTINF:-1,CAZE TV_HD
 #EXTINF:-1,CINEMAX
 #EXTINF:-1,DISNEY PLUS
@@ -64,6 +64,7 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd
 <<<<<<< HEAD
 =======
 >>>>>>> 6c57b674b1accee9acc431e71901a28519c910ec
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd7cc3674a0ade5b6/cartoonnetwork.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
