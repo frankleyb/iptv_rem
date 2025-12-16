@@ -32,8 +32,6 @@ https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e7197a48367256612
 
 
 
-#EXTINF:-1,TV CULTURA
-https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/824e02985b7dedb68b1930164bdca718/cultura.m3u8
 
 #EXTINF:-1,SBT AO VIVO
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/533ae8d74479cdb14c47eb4d41986fcd/sbt.m3u8
@@ -70,8 +68,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/e7197a48367256612
 
 
 
-#EXTINF:-1,TV CULTURA
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/824e02985b7dedb68b1930164bdca718/cultura.m3u8
 
 #EXTINF:-1,SBT AO VIVO
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/533ae8d74479cdb14c47eb4d41986fcd/sbt.m3u8
@@ -148,3 +144,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/9fe8659705fbdf04d
 
 #EXTINF:-1,WARNER TV
 https://embedcanais.store/nsMtwgKGwrnrjQEo2gw2JxhWrKoZB2JX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,TV CULTURA
+https://embedcanais.store/pBLzHfz3tvcltrtVvovXkeGOhHGm5Xww/tracks-v1a1/mono.ts.m3u8
