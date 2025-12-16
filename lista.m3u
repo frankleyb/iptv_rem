@@ -36,14 +36,16 @@
 
 
 
-#EXTINF:-1,HBO FAMILY
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/feed64503fc9d091dfb69ae8ee7e022c/hbofamily.m3u8
+
+#EXTINF:-1,HBO 2
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/071e7a49023080fcfe9017d5efebe025/hbo2.m3u8
 #EXTINF:-1,AE
 #EXTINF:-1,AXN
 #EXTINF:-1,BAND AO VIVO
 #EXTINF:-1,CARTOON NETWORK
 #EXTINF:-1,CINEMAX
 #EXTINF:-1,DISNEY PLUS
+#EXTINF:-1,HBO FAMILY
 #EXTINF:-1,HISTORY
 #EXTINF:-1,MEGAPIX
 #EXTINF:-1,NICKELODEON
@@ -91,3 +93,4 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc660
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fef9960b70102207c/hbo.m3u8
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f664b844edc201d0d9f546a01df08865/nickelodeon.m3u8
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/feed64503fc9d091dfb69ae8ee7e022c/hbofamily.m3u8
