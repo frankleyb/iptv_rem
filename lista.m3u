@@ -95,3 +95,11 @@ https://embedcanais.store/gjqmlMjWWsbtspPel8XOFDWKWLCR/index.m3u8
 
 #EXTINF:-1,BAND AO VIVO
 https://embedcanais.store/QLxEJHwBVJbndspvwSDrtqohUmuhV/index.m3u8
+#EXTINF:-1,AE
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
+#EXTINF:-1,CARTOON NETWORK
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
+#EXTINF:-1,SPACE
+https://embedcanais.store/qQa5ZD5sRIkhbsgnteC8wLtO9BSqD2/index.m3u8
+#EXTINF:-1 tvg-id="warnertv" tvg-name="warnertv",WARNER TV
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/2b72b11767d94343bf24c01d9acb1a33/warnerchannel.m3u8
