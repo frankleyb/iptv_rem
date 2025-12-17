@@ -59,3 +59,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/9fe8659705fbdf04d
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/2b72b11767d94343bf24c01d9acb1a33/warnerchannel.m3u8
 #EXTINF:-1,HBO FAMILY
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/feed64503fc9d091dfb69ae8ee7e022c/hbofamily.m3u8
+#EXTINF:-1,HBO 2
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/071e7a49023080fcfe9017d5efebe025/hbo2.m3u8
