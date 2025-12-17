@@ -1,8 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="HISTORY CHANNEL HD.br"><display-name>HISTORY CHANNEL HD.br</display-name></channel>
+<tv><channel id="Chef TV.br"><display-name>Chef TV.br</display-name></channel>
+<channel id="Globo News.br"><display-name>Globo News.br</display-name></channel>
+<channel id="Cultura.br"><display-name>Cultura.br</display-name></channel>
+<channel id="SBT Maceio.br"><display-name>SBT Maceio.br</display-name></channel>
+<channel id="Band Maceio.br"><display-name>Band Maceio.br</display-name></channel>
+<channel id="Megapix.br"><display-name>Megapix.br</display-name></channel>
+<channel id="Combate.br"><display-name>Combate.br</display-name></channel>
+<channel id="Discovery Turbo.br"><display-name>Discovery Turbo.br</display-name></channel>
+<channel id="History Channel.br"><display-name>History Channel.br</display-name></channel>
+<channel id="Disney.br"><display-name>Disney.br</display-name></channel>
+<channel id="Cinemax.br"><display-name>Cinemax.br</display-name></channel>
+<channel id="AE"><display-name>AE</display-name></channel><channel id="Cartoon Network.br"><display-name>Cartoon Network.br</display-name></channel>
 <channel id="AXN.br"><display-name>AXN.br</display-name></channel>
 <channel id="HBO.br"><display-name>HBO.br</display-name></channel>
+<channel id="Space.br"><display-name>Space.br</display-name></channel>
+<channel id="HBO Xtreme.br"><display-name>HBO Xtreme.br</display-name></channel>
+<channel id="Nick HD.br"><display-name>Nick HD.br</display-name></channel>
+<channel id="History 2.br"><display-name>History 2.br</display-name></channel>
+<channel id="SporTV.br"><display-name>SporTV.br</display-name></channel>
 <channel id="TNT.br"><display-name>TNT.br</display-name></channel>
 <channel id="TLC.br"><display-name>TLC.br</display-name></channel>
-<channel id="HBO 2.br"><display-name>HBO 2.br</display-name></channel>
+<channel id="Telecine Premium.br"><display-name>Telecine Premium.br</display-name></channel>
+<channel id="Telecine Action.br"><display-name>Telecine Action.br</display-name></channel>
+<channel id="Telecine Touch.br"><display-name>Telecine Touch.br</display-name></channel>
+<channel id="Telecine Cult.br"><display-name>Telecine Cult.br</display-name></channel>
+<channel id="Telecine Pipoca.br"><display-name>Telecine Pipoca.br</display-name></channel>
+<channel id="Record TV.br"><display-name>Record TV.br</display-name></channel>
+<channel id="HBO Family HD.br"><display-name>HBO Family HD.br</display-name></channel>
+<channel id="HBO2.br"><display-name>HBO2.br</display-name></channel>
+<channel id="HBO Plus.br"><display-name>HBO Plus.br</display-name></channel>
+<channel id="History 2.br"><display-name>History 2.br</display-name></channel>
+<channel id="SporTV3.br"><display-name>SporTV3.br</display-name></channel>
+<channel id="SporTV2.br"><display-name>SporTV2.br</display-name></channel>
+<channel id="Paramount Network.br"><display-name>Paramount Network.br</display-name></channel>
 </tv>
