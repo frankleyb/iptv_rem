@@ -11,8 +11,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/d8c4610a2834a1d31
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/f664b844edc201d0d9f546a01df08865/nickelodeon.m3u8
 #EXTINF:-1,PARAMOUNT
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/6aaa9756a866b0d462a9cd83e01e62a2/paramountplus.m3u8
-#EXTINF:-1,SPACE
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/b657f65c38578406d917fc64774257b3/space.m3u8
 #EXTINF:-1,SPORTV
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
 #EXTINF:-1,SPORTV 2
@@ -61,3 +59,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/6f726faf9e9fad1b447898c67847f352/axn.m3u8
 #EXTINF:-1,HBO
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fef9960b70102207c/hbo.m3u8
+#EXTINF:-1,SPACE
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/b657f65c38578406d917fc64774257b3/space.m3u8
