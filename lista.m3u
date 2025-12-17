@@ -51,8 +51,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/13105b36c1e2f6785
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/b79d468908ae483663f84c53456f3220/tnt.m3u8
 #EXTINF:-1,WARNER TV
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/2b72b11767d94343bf24c01d9acb1a33/warnerchannel.m3u8
-#EXTINF:-1,CINEMAX
-https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
 #EXTINF:-1,TV CULTURA
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/824e02985b7dedb68b1930164bdca718/cultura.m3u8
 #EXTINF:-1,SBT AO VIVO
@@ -69,3 +67,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/824b4096d86ede9f0
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/ee4a7290f2c765376870197bd894ad80/discoverychannel.m3u8
 #EXTINF:-1,DISNEY PLUS
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
+#EXTINF:-1,CINEMAX
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
