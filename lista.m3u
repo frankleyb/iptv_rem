@@ -3,10 +3,6 @@
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
 #EXTINF:-1,GLOBO NEWS AO VIVO
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
-#EXTINF:-1,HBO
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fef9960b70102207c/hbo.m3u8
-#EXTINF:-1,HBO XTREME
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/195a1991a66a8819000d307140575ed4/hboxtreme.m3u8
 #EXTINF:-1,MEGAPIX
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/5fd85187e0fc66ced2ec9739216026c4/megapix.m3u8
 #EXTINF:-1,COMBATE
@@ -61,9 +57,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/5f799feac072e77a6
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/45d9da85db4c582ffd9ee8e935e80c48/cartoonnetwork.m3u8
 #EXTINF:-1,AXN
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/f7a71dd9ef53b05c53a21a302f3a455e/axn.m3u8
-#EXTINF:-1,HBO FAMILY
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/c2df7c5fc2c58c8362a853b647cfa457/hbofamily.m3u8
-#EXTINF:-1,HBO 2
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/26a99769548fe0af47ad80401ba82cb0/hbo2.m3u8
-#EXTINF:-1,HBO PLUS
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/11b69adaa87bbe6209c686681bb59a8b/hboplus.m3u8
+#EXTINF:-1,HBO
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/1e4114f34b44afe751dce1aa7570c099/hbo.m3u8
