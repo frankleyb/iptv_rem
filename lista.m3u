@@ -13,8 +13,6 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/9f42f77235b283ba1
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/824b4096d86ede9f06eeb4dc9a39e644/discoveryturbo.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/ee4a7290f2c765376870197bd894ad80/discoverychannel.m3u8
-#EXTINF:-1,DISNEY PLUS
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
 #EXTINF:-1,CINEMAX
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
 #EXTINF:-1,AE
@@ -69,3 +67,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/8e5609e505a1c3b11
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/5fd85187e0fc66ced2ec9739216026c4/megapix.m3u8
 #EXTINF:-1,COMBATE
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/4e58a7f9717c11a2ba7c1c7ed044591d/combate.m3u8
+#EXTINF:-1,DISNEY PLUS
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/618a9a4649ff80be7c97a917c33eee70/disneyplus1.m3u8
