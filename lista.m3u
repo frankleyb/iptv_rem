@@ -27,8 +27,6 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fe
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/b657f65c38578406d917fc64774257b3/space.m3u8
 #EXTINF:-1,HBO XTREME
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/195a1991a66a8819000d307140575ed4/hboxtreme.m3u8
-#EXTINF:-1,TELECINE CULT
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/a6aed4d17b318ee045f751bf17ce4330/telecinecult.m3u8
 #EXTINF:-1,TELECINE PIPOCA
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/9fe8659705fbdf04d03856b6a2530b56/telecinepipoca.m3u8
 #EXTINF:-1,WARNER TV
@@ -63,3 +61,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/375311f87f8c37fa0
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/ab517fea71bfdc54b528dcedfd058b2a/telecineaction.m3u8
 #EXTINF:-1,TELECINE TOUCH
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/305d00823c650cfda245ceb07a56d1ee/telecinetouch.m3u8
+#EXTINF:-1,TELECINE CULT
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/da01525b8ec2423a5b27f3b608bea77a/telecinecult.m3u8
