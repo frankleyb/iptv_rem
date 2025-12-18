@@ -3,8 +3,6 @@
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
 #EXTINF:-1,GLOBO NEWS AO VIVO
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
-#EXTINF:-1,DISNEY PLUS
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/618a9a4649ff80be7c97a917c33eee70/disneyplus1.m3u8
 #EXTINF:-1,NICKELODEON
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/a98644aaaf23036bc075cef3b2d76ad1/nickelodeon.m3u8
 #EXTINF:-1,HISTORY
@@ -69,3 +67,5 @@ https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/3dfb514b353bac71c
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/824b4096d86ede9f06eeb4dc9a39e644/discoveryturbo.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/ee4a7290f2c765376870197bd894ad80/discoverychannel.m3u8
+#EXTINF:-1,DISNEY PLUS
+https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
