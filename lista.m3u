@@ -3,8 +3,6 @@
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
 #EXTINF:-1,GLOBO NEWS AO VIVO
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
-#EXTINF:-1,TELECINE TOUCH
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/305d00823c650cfda245ceb07a56d1ee/telecinetouch.m3u8
 #EXTINF:-1,TELECINE CULT
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/da01525b8ec2423a5b27f3b608bea77a/telecinecult.m3u8
 #EXTINF:-1,TELECINE PIPOCA
@@ -57,3 +55,5 @@ https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/13105b36c1e2f6785
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/c0ef4cf7240e48fc013fdc4984150628/telecinepremium.m3u8
 #EXTINF:-1,TELECINE ACTION
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/c43196f31d71f8ae462633705cd263df/telecineaction.m3u8
+#EXTINF:-1,TELECINE TOUCH
+https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/bd1dd1a55fd9da724d1fd23aa050aa65/telecinetouch.m3u8
