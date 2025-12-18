@@ -27,8 +27,6 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/15393f2c30bf67a3f
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/4dd26077d9c1b95a8e95023c4263a1a8/sbt.m3u8
 #EXTINF:-1,BAND AO VIVO
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/48570f05b8a5a711b37797250956734c/band.m3u8
-#EXTINF:-1,SPORTV 2
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/571230885615c41d92bfc10b57adae2e/sportv2.m3u8
 #EXTINF:-1,MEGAPIX
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
 #EXTINF:-1,COMBATE
@@ -61,3 +59,5 @@ https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/f664b844edc201d0d
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
 #EXTINF:-1,SPORTV 3
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/c03be95e479546aa178750371f4b3252/sportv3.m3u8
+#EXTINF:-1,SPORTV 2
+https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/8e5609e505a1c3b110a156ff532e5115/sportv2.m3u8
