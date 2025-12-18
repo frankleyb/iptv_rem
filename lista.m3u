@@ -7,8 +7,6 @@ https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fef9960b70102207c/hbo.m3u8
 #EXTINF:-1,HBO XTREME
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/195a1991a66a8819000d307140575ed4/hboxtreme.m3u8
-#EXTINF:-1,HBO PLUS
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/7313dffad78dd0de93a1b40bc4ae3c59/hboplus.m3u8
 #EXTINF:-1,MEGAPIX
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/5fd85187e0fc66ced2ec9739216026c4/megapix.m3u8
 #EXTINF:-1,COMBATE
@@ -67,3 +65,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/f7a71dd9ef53b05c5
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/c2df7c5fc2c58c8362a853b647cfa457/hbofamily.m3u8
 #EXTINF:-1,HBO 2
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/26a99769548fe0af47ad80401ba82cb0/hbo2.m3u8
+#EXTINF:-1,HBO PLUS
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/11b69adaa87bbe6209c686681bb59a8b/hboplus.m3u8
