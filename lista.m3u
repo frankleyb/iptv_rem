@@ -27,8 +27,6 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fe
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/b657f65c38578406d917fc64774257b3/space.m3u8
 #EXTINF:-1,HBO XTREME
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/195a1991a66a8819000d307140575ed4/hboxtreme.m3u8
-#EXTINF:-1,TLC
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
 #EXTINF:-1,TELECINE PREMIUM
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/c0ef4cf7240e48fc013fdc4984150628/telecinepremium.m3u8
 #EXTINF:-1,TELECINE ACTION
@@ -63,3 +61,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/be367678002037c3a
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/09562ced127bacb1df796da0245280e3/sportv.m3u8
 #EXTINF:-1,TNT
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/19cbe27a9269cb30035c15e5057c1c14/tnt.m3u8
+#EXTINF:-1,TLC
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/71c089c9d5452864e9bb30dbe6cbb77b/tlc.m3u8
