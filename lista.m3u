@@ -3,8 +3,6 @@
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
 #EXTINF:-1,GLOBO NEWS AO VIVO
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
-#EXTINF:-1,TV CULTURA
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/15393f2c30bf67a3fb1526a6d944385b/cultura.m3u8
 #EXTINF:-1,SBT AO VIVO
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/4dd26077d9c1b95a8e95023c4263a1a8/sbt.m3u8
 #EXTINF:-1,BAND AO VIVO
@@ -57,3 +55,5 @@ https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/a6aed4d17b318ee04
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/9fe8659705fbdf04d03856b6a2530b56/telecinepipoca.m3u8
 #EXTINF:-1,WARNER TV
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/2b72b11767d94343bf24c01d9acb1a33/warnerchannel.m3u8
+#EXTINF:-1,TV CULTURA
+https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/824e02985b7dedb68b1930164bdca718/cultura.m3u8
