@@ -3,8 +3,6 @@
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
 #EXTINF:-1,GLOBO NEWS AO VIVO
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
-#EXTINF:-1,TELECINE PIPOCA
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/bd2ba1a299087ae4272981e1b800ea99/telecinepipoca.m3u8
 #EXTINF:-1,WARNER TV
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/8c81cf1a749b7aae7431bbf24784daae/warnerchannel.m3u8
 #EXTINF:-1,TV CULTURA
@@ -57,3 +55,5 @@ https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/c43196f31d71f8ae4
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/bd1dd1a55fd9da724d1fd23aa050aa65/telecinetouch.m3u8
 #EXTINF:-1,TELECINE CULT
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/a6aed4d17b318ee045f751bf17ce4330/telecinecult.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/9fe8659705fbdf04d03856b6a2530b56/telecinepipoca.m3u8
