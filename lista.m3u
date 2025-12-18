@@ -53,8 +53,6 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/94e68cf2b621d3426
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/a43aa213d9f9069d65c52f20240b0959/cinemax.m3u8
 #EXTINF:-1,AE
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/5f799feac072e77a62f351792147dade/ae.m3u8
-#EXTINF:-1,AXN
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/f7a71dd9ef53b05c53a21a302f3a455e/axn.m3u8
 #EXTINF:-1,HBO
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/1e4114f34b44afe751dce1aa7570c099/hbo.m3u8
 #EXTINF:-1,HBO XTREME
@@ -67,3 +65,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/c2df7c5fc2c58c836
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/11b69adaa87bbe6209c686681bb59a8b/hboplus.m3u8
 #EXTINF:-1,CARTOON NETWORK
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/45d9da85db4c582ffd9ee8e935e80c48/cartoonnetwork.m3u8
+#EXTINF:-1,AXN
+https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/f7a71dd9ef53b05c53a21a302f3a455e/axn.m3u8
