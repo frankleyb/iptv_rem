@@ -39,8 +39,6 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/e629f327cf9a8fbf2
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/869f414324a7395a3d27ef31ec8b990e/sportv3.m3u8
 #EXTINF:-1,SPORTV 2
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/571230885615c41d92bfc10b57adae2e/sportv2.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/94e68cf2b621d342665c5f392455648b/discoverychannel.m3u8
 #EXTINF:-1,CINEMAX
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/a43aa213d9f9069d65c52f20240b0959/cinemax.m3u8
 #EXTINF:-1,AE
@@ -69,3 +67,5 @@ https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/3dfb514b353bac71c9d5044e0775e2b8/combate.m3u8
 #EXTINF:-1,DISCOVERY TURBO
 https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/824b4096d86ede9f06eeb4dc9a39e644/discoveryturbo.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+https://d1muf25xa12so8hp19.s27-usa-cloudfront-net.online/token/ee4a7290f2c765376870197bd894ad80/discoverychannel.m3u8
