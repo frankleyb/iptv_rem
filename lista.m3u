@@ -25,8 +25,6 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/feed64503fc9d091d
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/071e7a49023080fcfe9017d5efebe025/hbo2.m3u8
 #EXTINF:-1,HBO PLUS
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/7313dffad78dd0de93a1b40bc4ae3c59/hboplus.m3u8
-#EXTINF:-1,PARAMOUNT
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/6aaa9756a866b0d462a9cd83e01e62a2/paramountplus.m3u8
 #EXTINF:-1,MEGAPIX
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/5fd85187e0fc66ced2ec9739216026c4/megapix.m3u8
 #EXTINF:-1,COMBATE
@@ -63,3 +61,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/4dd26077d9c1b95a8
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/48570f05b8a5a711b37797250956734c/band.m3u8
 #EXTINF:-1,SPACE
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/e629f327cf9a8fbf278c32570611872a/space.m3u8
+#EXTINF:-1,PARAMOUNT
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/c3b26a5654eaf81b5c1fb7836a456f12/paramountplus.m3u8
