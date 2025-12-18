@@ -3,8 +3,6 @@
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
 #EXTINF:-1,GLOBO NEWS AO VIVO
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
-#EXTINF:-1,BAND AO VIVO
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/9f42f77235b283ba107e8da4d66b886e/band.m3u8
 #EXTINF:-1,DISCOVERY TURBO
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/824b4096d86ede9f06eeb4dc9a39e644/discoveryturbo.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
@@ -63,3 +61,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/8c81cf1a749b7aae7
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/15393f2c30bf67a3fb1526a6d944385b/cultura.m3u8
 #EXTINF:-1,SBT AO VIVO
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/4dd26077d9c1b95a8e95023c4263a1a8/sbt.m3u8
+#EXTINF:-1,BAND AO VIVO
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/48570f05b8a5a711b37797250956734c/band.m3u8
