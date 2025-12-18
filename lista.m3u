@@ -27,8 +27,6 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fe
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/b657f65c38578406d917fc64774257b3/space.m3u8
 #EXTINF:-1,HBO XTREME
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/195a1991a66a8819000d307140575ed4/hboxtreme.m3u8
-#EXTINF:-1,WARNER TV
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/2b72b11767d94343bf24c01d9acb1a33/warnerchannel.m3u8
 #EXTINF:-1,HBO FAMILY
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/feed64503fc9d091dfb69ae8ee7e022c/hbofamily.m3u8
 #EXTINF:-1,HBO 2
@@ -63,3 +61,5 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/305d00823c650cfda
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/da01525b8ec2423a5b27f3b608bea77a/telecinecult.m3u8
 #EXTINF:-1,TELECINE PIPOCA
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/bd2ba1a299087ae4272981e1b800ea99/telecinepipoca.m3u8
+#EXTINF:-1,WARNER TV
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/8c81cf1a749b7aae7431bbf24784daae/warnerchannel.m3u8
