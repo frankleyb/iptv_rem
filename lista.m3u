@@ -81,8 +81,6 @@ https://tyg2mnl9.fubohd.com/premiere3/mono.m3u8?token=aa3d1148e76fdbc5cc1604ad48
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/468f83d0ee24d392258c8bc539420b6c/premiere4.m3u8
 #EXTINF:-1,OPÇÃO 1
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
-#EXTINF:-1,ASSISTIR A&E AO VIVO
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
 #EXTINF:-1,ASSISTIR CINEMAX AO VIVO
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
 #EXTINF:-1,ASSISTIR ADULT SWIM AO VIVO
@@ -95,3 +93,5 @@ https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/b7a8fc0e98957ead7
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/824b4096d86ede9f06eeb4dc9a39e644/discoveryturbo.m3u8
 #EXTINF:-1,ASSISTIR MEGAPIX AO VIVO
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
+#EXTINF:-1,ASSISTIR A&E AO VIVO
+https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
