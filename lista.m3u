@@ -85,8 +85,6 @@ https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/b7a8fc0e98957ead7795c24276f82bee/discoverytheather.m3u8
 #EXTINF:-1,ASSISTIR A&E AO VIVO
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
-#EXTINF:-1,ASSISTIR CINEMAX AO VIVO
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
 #EXTINF:-1,ASSISTIR ADULT SWIM AO VIVO
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/ffe153a23ce1ef591e5c8fbdab15a80f/adultswim.m3u8
 #EXTINF:-1,DISCOVERY HOME & HEALTH AO VIVO
@@ -95,3 +93,5 @@ https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/227863e81b2608b72
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/ee4a7290f2c765376870197bd894ad80/discoverychannel.m3u8
 #EXTINF:-1,ASSISTIR MEGAPIX AO VIVO
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
+#EXTINF:-1,ASSISTIR CINEMAX AO VIVO
+https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
