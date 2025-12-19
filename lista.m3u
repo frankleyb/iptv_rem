@@ -1,35 +1,3 @@
 #EXTM3U
-#EXTINF:-1,PREMIERE
+#EXTINF:-1,CANAIS PREMIERE
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eeb97cf1a471b2ee59c0ed94ee2d7cd9/premiere.m3u8
-#EXTINF:-1,PREMIERE 4
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/468f83d0ee24d392258c8bc539420b6c/premiere4.m3u8
-#EXTINF:-1,MEGAPIX
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
-#EXTINF:-1,A&E
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
-#EXTINF:-1,CINEMAX
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
-#EXTINF:-1,ADULT SWIM
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/ffe153a23ce1ef591e5c8fbdab15a80f/adultswim.m3u8
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/227863e81b2608b72aa3309dbb58611f/discoveryhh.m3u8
-#EXTINF:-1,DISCOVERY THEATER
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/b7a8fc0e98957ead7795c24276f82bee/discoverytheather.m3u8
-#EXTINF:-1,COMBATE
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/3dfb514b353bac71c9d5044e0775e2b8/combate.m3u8
-#EXTINF:-1,DISCOVERYTURBO
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/824b4096d86ede9f06eeb4dc9a39e644/discoveryturbo.m3u8
-#EXTINF:-1,DISCOVERYCHANNEL
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/ee4a7290f2c765376870197bd894ad80/discoverychannel.m3u8
-#EXTINF:-1,DISNEYPLUS1
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
-#EXTINF:-1,DISNEYPLUS2
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/5a40e7e8030d7aec99448916c7c591d5/disneyplus2.m3u8
-#EXTINF:-1,DISNEYPLUS3
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/ea94d2479c93297a569189bb1920eadd/disneyplus3.m3u8
-#EXTINF:-1,PREMIERE CLUBES
-https://rm8zcvk3.fubohd.com/premiere1/mono.m3u8?token=18ef61ced26596fcc126c59f9287c8eda79f7271-7c-1766196981-1766178981
-#EXTINF:-1,PREMIERE 2
-https://anvtcax.fubohd.com/premiere2/mono.m3u8?token=a842e921e5e7c6da9a2370a536d8dc733b8cff19-b6-1766196981-1766178981
-#EXTINF:-1,PREMIERE 3
-https://anvtcax.fubohd.com/premiere3/mono.m3u8?token=582fff5144fb220b3921a6551a5c5d25a1d688d1-73-1766196982-1766178982
