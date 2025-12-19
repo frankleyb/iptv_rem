@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,PREMIERE
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eeb97cf1a471b2ee59c0ed94ee2d7cd9/premiere.m3u8
+#EXTINF:-1,PREMIERE 2
+https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/2a7fd4985ab86484a605eac069de48be/premiere2.m3u8
