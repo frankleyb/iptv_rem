@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,PREMIERE
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eeb97cf1a471b2ee59c0ed94ee2d7cd9/premiere.m3u8
-#EXTINF:-1,PREMIERE 3
-https://wp9xqedt.fubohd.com/premiere3/mono.m3u8?token=1b1c1ec8543fd39c924cce55651ad903d5a59bba-52-1766196720-1766178720
 #EXTINF:-1,PREMIERE 4
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/468f83d0ee24d392258c8bc539420b6c/premiere4.m3u8
 #EXTINF:-1,MEGAPIX
@@ -33,3 +31,5 @@ https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/ea94d2479c93297a5
 https://rm8zcvk3.fubohd.com/premiere1/mono.m3u8?token=18ef61ced26596fcc126c59f9287c8eda79f7271-7c-1766196981-1766178981
 #EXTINF:-1,PREMIERE 2
 https://anvtcax.fubohd.com/premiere2/mono.m3u8?token=a842e921e5e7c6da9a2370a536d8dc733b8cff19-b6-1766196981-1766178981
+#EXTINF:-1,PREMIERE 3
+https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/f565c97082c87e4355939c66a7723e48/premiere3.m3u8
