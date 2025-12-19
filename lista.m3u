@@ -3,8 +3,6 @@
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eeb97cf1a471b2ee59c0ed94ee2d7cd9/premiere.m3u8
 #EXTINF:-1,PREMIERE CLUBES
 https://ag9wzq.fubohd.com/premiere1/mono.m3u8?token=260018765a0e757b0a36ac36d2391b47d5544ee3-98-1766196110-1766178110
-#EXTINF:-1,PREMIERE 2
-https://x4bnd7lq.fubohd.com/premiere2/mono.m3u8?token=69d7efbf4d538e735e409a3f96c4deb0b728661a-98-1766196110-1766178110
 #EXTINF:-1,PREMIERE 3
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/f565c97082c87e4355939c66a7723e48/premiere3.m3u8
 #EXTINF:-1,PREMIERE 4
@@ -33,3 +31,5 @@ https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/5a40e7e8030d7aec9
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/ea94d2479c93297a569189bb1920eadd/disneyplus3.m3u8
 #EXTINF:-1,DISCOVERY THEATER
 https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/b7a8fc0e98957ead7795c24276f82bee/discoverytheather.m3u8
+#EXTINF:-1,PREMIERE 2
+https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/2a7fd4985ab86484a605eac069de48be/premiere2.m3u8
