@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,MEGAPIX
-https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/4dd128df4a174e20596145e04011315b/megapix.m3u8
-#EXTINF:-1,PREMIERE 2
-https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/4dd128df4a174e20596145e04011315b/megapix.m3u8
-#EXTINF:-1,PREMIERE 3
-https://dlnmh9ip6v2cxz.cloudfontes.net/pre2.m3u8
-#EXTINF:-1,COMEDY CENTRAL AO VIVO
-https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/c12b8449647ce497a11a6c4b4b1f535c/comedycentral.m3u8
