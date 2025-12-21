@@ -9,8 +9,6 @@ https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/824e02985b7dedb68
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/533ae8d74479cdb14c47eb4d41986fcd/sbt.m3u8
 #EXTINF:-1,BAND AO VIVO
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/9f42f77235b283ba107e8da4d66b886e/band.m3u8
-#EXTINF:-1,TELECINE PREMIUM
-https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/c0ef4cf7240e48fc013fdc4984150628/telecinepremium.m3u8
 #EXTINF:-1,TELECINE ACTION
 https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/c43196f31d71f8ae462633705cd263df/telecineaction.m3u8
 #EXTINF:-1,TELECINE TOUCH
@@ -57,3 +55,5 @@ https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/78b415ad04722f0fe
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/5ee7b98bddd7e8d490520e7f4c6a005c/tnt.m3u8
 #EXTINF:-1,TLC
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/17abb27c18cb9cba920d34711f05cca8/tlc.m3u8
+#EXTINF:-1,TELECINE PREMIUM
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/c72b29265d44e05fcaeef5fc50e50530/telecinepremium.m3u8
