@@ -5,8 +5,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4d
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/5d406d4e256f7104bf2ef265bdd1a5d5/discoverychannel.m3u8
-#EXTINF:-1,MEGAPIX
-https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/4dd128df4a174e20596145e04011315b/megapix.m3u8
 #EXTINF:-1,COMBATE
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
 #EXTINF:-1,DISCOVERY TURBO
@@ -57,3 +55,5 @@ https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/0a53730346ac2182e
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/b8c3471ad30240c91a02469b330ad6fe/sbt.m3u8
 #EXTINF:-1,BAND AO VIVO
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/be47566a989a04e42b1d272ad26559f3/band.m3u8
+#EXTINF:-1,MEGAPIX
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/4dd128df4a174e20596145e04011315b/megapix.m3u8
