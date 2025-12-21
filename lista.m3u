@@ -3,8 +3,6 @@
 https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
 #EXTINF:-1,GLOBO NEWS AO VIVO
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
-#EXTINF:-1,COMBATE
-https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/5d406d4e256f7104bf2ef265bdd1a5d5/discoverychannel.m3u8
 #EXTINF:-1,DISNEY PLUS
@@ -59,3 +57,5 @@ https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/4dd128df4a174e205
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/6a6ac87f7fad10d72c4b033d05aed3ce/discoveryturbo.m3u8
 #EXTINF:-1,PREMIERE CLUBES
 https://dlnmh9ip6v2cxz.cloudfontes.net/pre1.m3u8
+#EXTINF:-1,COMBATE
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
