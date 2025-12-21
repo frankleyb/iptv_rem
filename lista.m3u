@@ -1,57 +1,67 @@
 #EXTM3U
-#EXTINF:-1,CANAIS PREMIERE
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eeb97cf1a471b2ee59c0ed94ee2d7cd9/premiere.m3u8
-#EXTINF:-1,MEGAPIX
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/654ed070aa7a1cdfc562e05d53d7554c/megapix.m3u8
-#EXTINF:-1,COMBATE
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/3dfb514b353bac71c9d5044e0775e2b8/combate.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/824b4096d86ede9f06eeb4dc9a39e644/discoveryturbo.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/ee4a7290f2c765376870197bd894ad80/discoverychannel.m3u8
-#EXTINF:-1,DISNEY PLUS
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/e7197a4836725661242c428cbb99ac9f/disneyplus1.m3u8
-#EXTINF:-1,CINEMAX
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/eb5073ba86d1fc66066ca031e5a699c3/cinemax.m3u8
-#EXTINF:-1,AE
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/82fa9a6f29463a0d6cace025911ccbdf/ae.m3u8
-#EXTINF:-1,CARTOON NETWORK
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/19a73d7a57ff7bdfd7cc3674a0ade5b6/cartoonnetwork.m3u8
-#EXTINF:-1,AXN
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/6f726faf9e9fad1b447898c67847f352/axn.m3u8
-#EXTINF:-1,HBO
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/f232a8b08ba7a80fef9960b70102207c/hbo.m3u8
-#EXTINF:-1,SPACE
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/b657f65c38578406d917fc64774257b3/space.m3u8
-#EXTINF:-1,HBO XTREME
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/195a1991a66a8819000d307140575ed4/hboxtreme.m3u8
-#EXTINF:-1,PARAMOUNT
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/6aaa9756a866b0d462a9cd83e01e62a2/paramountplus.m3u8
-#EXTINF:-1,NICKELODEON
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/f664b844edc201d0d9f546a01df08865/nickelodeon.m3u8
-#EXTINF:-1,HISTORY
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/15acf8f36e685debd1e9453954fa4fff/history.m3u8
-#EXTINF:-1,SPORTV
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/0e0fc51d30f8d5626795d545165242b7/sportv.m3u8
-#EXTINF:-1,TNT
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/b79d468908ae483663f84c53456f3220/tnt.m3u8
-#EXTINF:-1,TLC
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/13105b36c1e2f678585de3213ff29def/tlc.m3u8
-#EXTINF:-1,TELECINE PREMIUM
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/c0ef4cf7240e48fc013fdc4984150628/telecinepremium.m3u8
-#EXTINF:-1,TELECINE ACTION
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/c43196f31d71f8ae462633705cd263df/telecineaction.m3u8
-#EXTINF:-1,TELECINE TOUCH
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/bd1dd1a55fd9da724d1fd23aa050aa65/telecinetouch.m3u8
-#EXTINF:-1,TELECINE CULT
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/a6aed4d17b318ee045f751bf17ce4330/telecinecult.m3u8
-#EXTINF:-1,TELECINE PIPOCA
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/9fe8659705fbdf04d03856b6a2530b56/telecinepipoca.m3u8
-#EXTINF:-1,WARNER TV
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/2b72b11767d94343bf24c01d9acb1a33/warnerchannel.m3u8
+#EXTINF:-1,CAZE TV
+https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4dcd9779fb5ff0425/caze1.m3u8
+#EXTINF:-1,GLOBO NEWS AO VIVO
+https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
 #EXTINF:-1,TV CULTURA
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/824e02985b7dedb68b1930164bdca718/cultura.m3u8
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/824e02985b7dedb68b1930164bdca718/cultura.m3u8
 #EXTINF:-1,SBT AO VIVO
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/533ae8d74479cdb14c47eb4d41986fcd/sbt.m3u8
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/533ae8d74479cdb14c47eb4d41986fcd/sbt.m3u8
 #EXTINF:-1,BAND AO VIVO
-https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/token/9f42f77235b283ba107e8da4d66b886e/band.m3u8
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/9f42f77235b283ba107e8da4d66b886e/band.m3u8
+#EXTINF:-1,TELECINE PREMIUM
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/c0ef4cf7240e48fc013fdc4984150628/telecinepremium.m3u8
+#EXTINF:-1,TELECINE ACTION
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/c43196f31d71f8ae462633705cd263df/telecineaction.m3u8
+#EXTINF:-1,TELECINE TOUCH
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/bd1dd1a55fd9da724d1fd23aa050aa65/telecinetouch.m3u8
+#EXTINF:-1,TELECINE CULT
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/a6aed4d17b318ee045f751bf17ce4330/telecinecult.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/9fe8659705fbdf04d03856b6a2530b56/telecinepipoca.m3u8
+#EXTINF:-1,WARNER TV
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/2b72b11767d94343bf24c01d9acb1a33/warnerchannel.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/6a6ac87f7fad10d72c4b033d05aed3ce/discoveryturbo.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/5d406d4e256f7104bf2ef265bdd1a5d5/discoverychannel.m3u8
+#EXTINF:-1,DISNEY PLUS
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/7e6808cf495d47be7ff1dff368d56ed4/disneyplus1.m3u8
+#EXTINF:-1,CINEMAX
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/0b64f3649177b31a78ce20eff96dc951/cinemax.m3u8
+#EXTINF:-1,AE
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/dbfa3ada87183a50415b8b9d37ace29c/ae.m3u8
+#EXTINF:-1,CARTOON NETWORK
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/d6e25418529d33e4e85d3084782c9699/cartoonnetwork.m3u8
+#EXTINF:-1,AXN
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/3885e0aa903122a3966152583abcb28b/axn.m3u8
+#EXTINF:-1,HBO
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/3eca30cab3886dd34382a3c9baf695e1/hbo.m3u8
+#EXTINF:-1,HBO FAMILY
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/2e95a28edb2d894aafb16c088be753f5/hbofamily.m3u8
+#EXTINF:-1,HBO 2
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/63833d08dc031caef1c4fad265cc6191/hbo2.m3u8
+#EXTINF:-1,HBO PLUS
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/327a6d33449bc601a8c850bebd37d6c1/hboplus.m3u8
+#EXTINF:-1,SPACE
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/d3c03fcae6fcc7320747b1314d62cf80/space.m3u8
+#EXTINF:-1,HBO XTREME
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/bb79c0475cb078a62d170b8d1afd3319/hboxtreme.m3u8
+#EXTINF:-1,PARAMOUNT
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/e26f6ba08380643f8acaa1afd40f87a6/paramountplus.m3u8
+#EXTINF:-1,NICKELODEON
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/c09ca208302da6a9b64645182b998517/nickelodeon.m3u8
+#EXTINF:-1,HISTORY
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/5313596e70c9251b6eebba3a54264cc5/history.m3u8
+#EXTINF:-1,SPORTV
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/78b415ad04722f0fe736a2b097cccfb8/sportv.m3u8
+#EXTINF:-1,TNT
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/5ee7b98bddd7e8d490520e7f4c6a005c/tnt.m3u8
+#EXTINF:-1,TLC
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/17abb27c18cb9cba920d34711f05cca8/tlc.m3u8
+#EXTINF:-1,HISTORY 2
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/3c9e13c61e060d992fdd7bdf1ac80d89/history2.m3u8
+#EXTINF:-1,MEGAPIX
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/4dd128df4a174e20596145e04011315b/megapix.m3u8
+#EXTINF:-1,COMBATE
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
