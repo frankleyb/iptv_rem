@@ -5,8 +5,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4d
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/5d406d4e256f7104bf2ef265bdd1a5d5/discoverychannel.m3u8
-#EXTINF:-1,AE
-https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/dbfa3ada87183a50415b8b9d37ace29c/ae.m3u8
 #EXTINF:-1,CARTOON NETWORK
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/d6e25418529d33e4e85d3084782c9699/cartoonnetwork.m3u8
 #EXTINF:-1,AXN
@@ -57,3 +55,5 @@ https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/6a6ac87f7fad10d72
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/7e6808cf495d47be7ff1dff368d56ed4/disneyplus1.m3u8
 #EXTINF:-1,CINEMAX
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/0b64f3649177b31a78ce20eff96dc951/cinemax.m3u8
+#EXTINF:-1,AE
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/dbfa3ada87183a50415b8b9d37ace29c/ae.m3u8
