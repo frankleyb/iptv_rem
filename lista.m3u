@@ -5,8 +5,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4d
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
 #EXTINF:-1,DISNEY PLUS
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/7e6808cf495d47be7ff1dff368d56ed4/disneyplus1.m3u8
-#EXTINF:-1,TELECINE PIPOCA
-https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/b7e67279d0ca5194588864b185657c0c/telecinepipoca.m3u8
 #EXTINF:-1,WARNER TV
 https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/bc473f9f1cc9126c61d356264b9caf44/warnerchannel.m3u8
 #EXTINF:-1,TV CULTURA
@@ -71,3 +69,5 @@ https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/ae2bf9921837b5d1d
 https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/c97feca4b5ee43e73c4ff15ee6745ad1/telecinetouch.m3u8
 #EXTINF:-1,TELECINE CULT
 https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/498623e0e48bf3d50cb5563ee173b71a/telecinecult.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/b7e67279d0ca5194588864b185657c0c/telecinepipoca.m3u8
