@@ -5,8 +5,6 @@ https://d1muf25xa12so8hp17.s27-usa-cloudfront-net.online/token/200435fd3eb861e4d
 https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
 #EXTINF:-1,DISNEY PLUS
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/7e6808cf495d47be7ff1dff368d56ed4/disneyplus1.m3u8
-#EXTINF:-1,COMBATE
-https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
 #EXTINF:-1,PREMIERE CLUBES
 https://dlnmh9ip6v2cxz.cloudfontes.net/pre1.m3u8
 #EXTINF:-1,DISCOVERY TURBO
@@ -71,3 +69,5 @@ https://dlnmh9ip6v2cxz.cloudfontes.net/espn2.m3u8
 https://dlnmh9ip6v2cxz.cloudfontes.net/espn3.m3u8
 #EXTINF:-1,ESPN 4
 https://dlnmh9ip6v2cxz.cloudfontes.net/espn4.m3u8
+#EXTINF:-1,COMBATE
+https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
