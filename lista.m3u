@@ -43,8 +43,6 @@ https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/3eca30cab3886dd34
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/d3c03fcae6fcc7320747b1314d62cf80/space.m3u8
 #EXTINF:-1,HBO XTREME
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/bb79c0475cb078a62d170b8d1afd3319/hboxtreme.m3u8
-#EXTINF:-1,COMBATE
-https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
 #EXTINF:-1,PREMIERE CLUBES
 https://dlnmh9ip6v2cxz.cloudfontes.net/pre1.m3u8
 #EXTINF:-1,DISCOVERY TURBO
@@ -61,3 +59,5 @@ https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/d6e25418529d33e4e
 https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/3885e0aa903122a3966152583abcb28b/axn.m3u8
 #EXTINF:-1,MEGAPIX
 https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/4dd128df4a174e20596145e04011315b/megapix.m3u8
+#EXTINF:-1,COMBATE
+https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
