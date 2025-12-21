@@ -31,8 +31,6 @@ https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/b8c3471ad30240c91
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/be47566a989a04e42b1d272ad26559f3/band.m3u8
 #EXTINF:-1,DISNEY PLUS
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/7e6808cf495d47be7ff1dff368d56ed4/disneyplus1.m3u8
-#EXTINF:-1,HBO PLUS
-https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/327a6d33449bc601a8c850bebd37d6c1/hboplus.m3u8
 #EXTINF:-1,SPACE
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/d3c03fcae6fcc7320747b1314d62cf80/space.m3u8
 #EXTINF:-1,HBO XTREME
@@ -67,3 +65,5 @@ https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/3885e0aa903122a39
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/2e95a28edb2d894aafb16c088be753f5/hbofamily.m3u8
 #EXTINF:-1,HBO 2
 https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/63833d08dc031caef1c4fad265cc6191/hbo2.m3u8
+#EXTINF:-1,HBO PLUS
+https://d1muf25xa12so8hp21.s27-usa-cloudfront-net.online/token/327a6d33449bc601a8c850bebd37d6c1/hboplus.m3u8
