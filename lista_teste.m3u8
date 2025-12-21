@@ -1,13 +1,12 @@
 #EXTM3U
+#EXTINF:0 user-agent="Mozilla/5.0 (SMART-TV; Tizen/6.5)",MEGAPIX
+http://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/4dd128df4a174e20596145e04011315b/megapix.m3u8
 
-#EXTINF:-1,MEGAPIX
-https://d1muf25xa12so8hp22.s27-usa-cloudfront-net.online/token/4dd128df4a174e20596145e04011315b/megapix.m3u8
-
-#EXTINF:-1,PREMIERE 2
+#EXTINF:0 user-agent="Mozilla/5.0 (SMART-TV; Tizen/6.5)",PREMIERE 2
 https://dlnmh9ip6v2cxz.cloudfontes.net/pre2.m3u8
 
-#EXTINF:-1,PREMIERE 3
+#EXTINF:0 user-agent="Mozilla/5.0 (SMART-TV; Tizen/6.5)",PREMIERE 3
 https://dlnmh9ip6v2cxz.cloudfontes.net/pre3.m3u8
 
-#EXTINF:-1,ESPN
+#EXTINF:0 user-agent="Mozilla/5.0 (SMART-TV; Tizen/6.5)",ESPN
 https://dlnmh9ip6v2cxz.cloudfontes.net/espn.m3u8
