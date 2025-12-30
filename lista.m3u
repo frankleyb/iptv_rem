@@ -2,9 +2,7 @@
 #EXTINF:-1,ANIMAL PLANET
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/4fa20e1be3d9f9ee727c66144e0f028d/animalplanet.m3u8
 #EXTINF:-1,COMEDY CENTRAL
-https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/c12b8449647ce497a11a6c4b4b1f535c/comedycentral.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/5d406d4e256f7104bf2ef265bdd1a5d5/discoverychannel.m3u8
+https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/c12b8449647ce497a11a6c4b4b1f535c/comedycentral.m3u
 #EXTINF:-1,GNT
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/e289e61e55e87cf3c3b6fcb0fdc3ae34/gnt.m3u8
 #EXTINF:-1,MEGAPIX
@@ -13,16 +11,10 @@ https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/4dd128df4a174e205
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/5c27e510440f7fe7bb4ac424f28c9325/discoverytheather.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/e4864b777e995f0c4d75bfddc5435fa9/discoveryscience.m3u8
-#EXTINF:-1,FX
-https://d1muf25xa12so8hp30.s27-usa-cloudfront-net.online/token/e4864b777e995f0c4d75bfddc5435fa9/discoveryscience.m3u8
 #EXTINF:-1,UNIVERSAL TV
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/ae3b74f1022ec819e0fef7d6d2bfd126/universaltv.m3u8
 #EXTINF:-1,VIVA
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/1792ef788a0474d8541112e15f4d272d/viva.m3u8
-#EXTINF:-1,PREMIERE 2
-https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/49317a57a79b30a90c06370328c4909d/premiere2.m3u8
-#EXTINF:-1,PREMIERE 3
-https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/de29cec13ec3dc60d7d44832dc1793d8/premiere3.m3u8
 #EXTINF:-1,ESPN
 https://dlnmh9ip6v2cxz.cloudfontes.net/espn.m3u8
 #EXTINF:-1,ESPN 2
@@ -35,6 +27,18 @@ https://dlnmh9ip6v2cxz.cloudfontes.net/espn4.m3u8
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
 #EXTINF:-1,PREMIERE CLUBES
 https://dlnmh9ip6v2cxz.cloudfontes.net/pre1.m3u8
+#EXTINF:-1,PREMIERE 2
+https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/49317a57a79b30a90c06370328c4909d/premiere2.m3u8
+#EXTINF:-1,PREMIERE 3
+https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/de29cec13ec3dc60d7d44832dc1793d8/premiere3.m3u8
+#EXTINF:-1,PREMIERE 4
+https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/34eaf75ff41b680068cec3a7c8572c2f/premiere4.m3u8
+#EXTINF:-1,PREMIERE 5
+https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/7b6a3829c4ac16f12c591e8f68b40abf/premiere5.m3u8
+#EXTINF:-1,PREMIERE 6
+https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/cf72b23ed002ced78b9fc05183acd154/premiere6.m3u8
+#EXTINF:-1,PREMIERE 7
+https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/78afa08adabb65f8b3a01e7823fdac21/premiere7.m3u8
 #EXTINF:-1,DISCOVERY TURBO
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/6a6ac87f7fad10d72c4b033d05aed3ce/discoveryturbo.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
@@ -97,19 +101,3 @@ https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/b8c3471ad30240c91
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/be47566a989a04e42b1d272ad26559f3/band.m3u8
 #EXTINF:-1,GLOBO
 https://dlnmh9ip6v2cxz.cloudfontes.net/globosp.m3u8
-#EXTINF:-1,PREMIERE 2
-https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/49317a57a79b30a90c06370328c4909d/premiere2.m3u8
-#EXTINF:-1,PREMIERE 3
-https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/de29cec13ec3dc60d7d44832dc1793d8/premiere3.m3u8
-#EXTINF:-1,PREMIERE 4
-https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/34eaf75ff41b680068cec3a7c8572c2f/premiere4.m3u8
-#EXTINF:-1,PREMIERE 5
-https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/7b6a3829c4ac16f12c591e8f68b40abf/premiere5.m3u8
-#EXTINF:-1,PREMIERE 6
-https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/cf72b23ed002ced78b9fc05183acd154/premiere6.m3u8
-#EXTINF:-1,PREMIERE 7
-https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/78afa08adabb65f8b3a01e7823fdac21/premiere7.m3u8
-#EXTINF:-1,DISNEY XD
-https://d1muf25xa12so8hp29.s27-usa-cloudfront-net.online/token/e289e61e55e87cf3c3b6fcb0fdc3ae34/gnt.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-https://d1muf25xa12so8hp30.s27-usa-cloudfront-net.online/token/e289e61e55e87cf3c3b6fcb0fdc3ae34/gnt.m3u8
