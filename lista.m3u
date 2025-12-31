@@ -15,14 +15,6 @@ https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/e4864b777e995f0c4
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/ae3b74f1022ec819e0fef7d6d2bfd126/universaltv.m3u8
 #EXTINF:-1,VIVA
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/1792ef788a0474d8541112e15f4d272d/viva.m3u8
-#EXTINF:-1,ESPN
-https://dlnmh9ip6v2cxz.cloudfontes.net/espn.m3u8
-#EXTINF:-1,ESPN 2
-https://dlnmh9ip6v2cxz.cloudfontes.net/espn2.m3u8
-#EXTINF:-1,ESPN 3
-https://dlnmh9ip6v2cxz.cloudfontes.net/espn3.m3u8
-#EXTINF:-1,ESPN 4
-https://dlnmh9ip6v2cxz.cloudfontes.net/espn4.m3u8
 #EXTINF:-1,COMBATE
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/accd8ee4d2d29bef8c273eb5466b95cd/combate.m3u8
 #EXTINF:-1,PREMIERE CLUBES
@@ -99,5 +91,6 @@ https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/be47566a989a04e42
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/7e5cf538adbbac5e8c603c49cdfb59a9/globorj.m3u8
 #EXTINF:-1,HBO FAMILY
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/2e95a28edb2d894aafb16c088be753f5/hbofamily.m3u8
+
 
 
